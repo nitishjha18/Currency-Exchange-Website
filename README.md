@@ -4,7 +4,7 @@ A modern, responsive currency converter web application that provides real-time 
 ✨ Features
 Real-Time Exchange Rates – Fetches live currency data from the Free Currency API
 
-150+ Currencies – Support for major and minor world currencies
+32 Currencies – Support for major world currencies
 
 Flag Display – Visual currency flags using the FlagsAPI
 

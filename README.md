@@ -210,4 +210,4 @@ For issues, questions, or suggestions:
 
 **Last Updated**: December 29, 2025
 
-Made with ❤️ by [Nitish Jha](https://github.com/nitishjha18)
+Made by [Nitish Jha](https://github.com/nitishjha18)
